@@ -51,7 +51,7 @@ Attributes: Coupon ID User ID Redemption Date Order ID (if the coupon was used i
 
 
 
-#### Issues In the Service ####
+#### Issues And its Solution in the Service ####
 Handling the scenario where only one coupon is left for redemption and multiple user requests for redemption simultaneously is crucial to ensure data consistency and prevent race conditions
 
 **Atomic Check and Update:** 

@@ -1,4 +1,62 @@
 
+# Coupon Redeeming Service
+
+High-level design for a coupon redeeming microservice along with its Logical Level Design (LLD)
+
+
+
+## Requirement 
+It should provide functionalities for creating, validating, and redeeming coupons.
+
+
+## Description 
+Coupon Entity:
+
+
+|  Entity   | Attribute Description|
+| -------- | ------- |
+| ID  | (Unique identifier for the coupon)     |
+| Code | (Alphanumeric code for the coupon)     |
+| Discount    | (Percentage or fixed amount discount)    |
+| Coupon Type | (Coupon Type Percentage or Amount)
+| Expiry Date | (Boolean flag) |
+| Usage Limit | (Maximum number of times the coupon can be redeemed) |
+
+
+## API Reference
+
+REST endpoints for interacting with coupons. 
+
+#### Generates a new coupons
+
+```http
+  POST /api/coupons/generate
+```
+```http
+  GET /api/coupons/{couponId}/validate
+```
+
+#### Get Coupon Redemption History
+
+```http
+  GET /api/coupons/{couponId}/redemptionHistory
+```
+| Path Variable | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `couponId` | `string` | **Required**. Coupon Id |
+
+#### Optionally ####
+We can keep track of coupon redemption history for analytics purposes. 
+Attributes: Coupon ID User ID Redemption Date Order ID (if the coupon was used in an order) 
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
 High-level design for a coupon redeeming microservice along with its Logical Level Design (LLD)
 
 ***Requirement***

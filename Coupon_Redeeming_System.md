@@ -18,8 +18,6 @@ It should provide functionalities for creating, validating, and redeeming coupon
 
 REST endpoints for interacting with coupons. 
 
-### API Endpoints
-
 | Method | Endpoint               | Description                  |
 | ------ | ---------------------- | ---------------------------- |
 |**POST** | `/api/coupons/generate`           | Generate Coupons |

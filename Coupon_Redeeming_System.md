@@ -30,10 +30,6 @@ REST endpoints for interacting with coupons.
 | :-------- | :------- | :------------------------- |
 | `couponId` | `string` | **Required**. Coupon Id |
 
-#### Optionally ####
-We can keep track of coupon redemption history for analytics purposes. 
-Attributes: Coupon ID User ID Redemption Date Order ID (if the coupon was used in an order) 
-
 
 ## DB Schema's:
 
@@ -48,20 +44,38 @@ Attributes: Coupon ID User ID Redemption Date Order ID (if the coupon was used i
 | Usage Limit | | (Maximum number of times the coupon can be redeemed) |
 | Status      |  ACTIVE , INPROGRESS , INACTIVE  | is coupon active |
 
+|  **Order Table**    | | |
+| -------- |------ |------- |
+| ID  | (Primary Key, Auto-increment) |(Unique identifier for the coupon)     |
+| CouponId | | (coupon Id)     |
+| UserId | | (user Id)     |
+| Status |  ACTIVE , INPROGRESS , INACTIVE | |
 
+|  **Order History**    | | |
+| -------- |------ |------- |
+| ID  | (Primary Key, Auto-increment) |(Unique identifier for the coupon)     |
+| CouponId | | (coupon Id)     |
+| UserId | | (user Id)     |
+| Status |  ACTIVE , INPROGRESS , INACTIVE | |
+| updatedAt   | | |
 
-
-#### Issues And its Solution in the Service ####
+## Chalanges and its Solution's ##
 Handling the scenario where only one coupon is left for redemption and multiple user requests for redemption simultaneously is crucial to ensure data consistency and prevent race conditions
 
-**Atomic Check and Update:** 
-Implement a mechanism that ensures atomicity when checking and updating the coupon's redemption status. This can be achieved through transactions in relational databases or using atomic operations in NoSQL databases.
+#### Atomic Check and Update:
+Implement a mechanism that ensures atomicity when checking and updating the coupon's redemption status. This can be achieved through _**transactions in relational databases or using atomic operations in NoSQL databases**_.
 
-**Concurrency Control:** 
-Utilize concurrency control mechanisms to handle concurrent requests. For example, you can use locks or optimistic concurrency control techniques to prevent multiple users from redeeming the same coupon simultaneously.
+#### Concurrency Control:
+Utilize concurrency control mechanisms to handle concurrent requests. For example, _**you can use locks or optimistic concurrency control techniques to prevent multiple users**_ from redeeming the same coupon simultaneously.
 
-**Queueing or Rate Limiting:** 
-Implement a queueing system or rate-limiting mechanism to process redemption requests in a controlled manner. This ensures that only one request is processed at a time when there's only one coupon left.
+#### Queueing or Rate Limiting:
+_**Implement a queueing system or rate-limiting mechanism to process redemption requests in a controlled manner**_. This ensures that only one request is processed at a time when there's only one coupon left.
 
-**Reservation Design pattern:**
-Reservation pattern allows you to have a time-bound limit for a coupon so if one coupon have just 1 time use left and one user is redeeming that and if other user comes than that coupon will be unavaible for certain period of time. 
+#### Reservation Design pattern:
+_**Reservation pattern allows you to have a time-bound limit for a coupon**_ so if one coupon have just 1 time use left and one user is redeeming that and if other user comes than that coupon will be unavaible for certain period of time. 
+
+
+> [!TIP] 
+> Optionally 
+> We can keep track of coupon redemption history for analytics purposes. 
+> Attributes: Coupon ID User ID Redemption Date Order ID (if the coupon was used in an order) 

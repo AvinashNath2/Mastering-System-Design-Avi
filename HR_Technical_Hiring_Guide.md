@@ -246,7 +246,7 @@ This document serves as a comprehensive cheat sheet for HR professionals to assi
 - **Red Flags**: Poor leadership skills, lack of business understanding
 
 ### **Role-Specific HR Questions**
-Each role file contains tailored behavioral questions for different experience levels. Review the HR questions section in each role file for specific interview guidance.
+Each role file contains tailored behavioral questions for different experience levels. Review the individual role files for specific interview guidance.
 
 ---
 

@@ -33,21 +33,18 @@ Each role file contains:
 - **Good-to-Have Skills**: Additional tools and concepts
 - **Data Structures & Algorithms**: Basic concepts (Arrays, Lists, Sets, Maps)
 - **Focus Areas**: Fundamentals, basic problem-solving
-- **HR Questions**: Role-specific behavioral questions for junior candidates
 
 ### **Mid Level (3-6 years)**
 - **Must-Have Skills**: Advanced frameworks and patterns
 - **Good-to-Have Skills**: Cloud platforms, CI/CD, monitoring
 - **Data Structures & Algorithms**: Advanced concepts (Trees, Graphs, Dynamic Programming)
 - **Focus Areas**: Architecture, performance optimization
-- **HR Questions**: Leadership potential and technical decision-making questions
 
 ### **Experienced Level (6+ years)**
 - **Must-Have Skills**: Enterprise-level technologies
 - **Good-to-Have Skills**: Advanced tools and platforms
 - **Production Support & Miscellaneous**: 24/7 support, incident management, compliance
 - **Focus Areas**: Leadership, architecture decisions, business impact
-- **HR Questions**: Strategic thinking and team leadership questions
 
 ## 🎯 **Key Features**
 
@@ -67,7 +64,6 @@ Each role file contains:
 - **Cost Optimization**: Cloud cost management, resource optimization
 
 ### **HR-Friendly Features**
-- **Role-Specific Questions**: Behavioral questions tailored to each experience level
 - **Non-Technical Language**: Simplified descriptions for HR professionals
 - **Focus Areas**: Clear guidance on what to look for in candidates
 - **Career Progression**: Understanding of growth paths and expectations
@@ -75,9 +71,6 @@ Each role file contains:
 ## 📚 **Learning Resources**
 
 Each role file includes:
-- **Technology-specific resources**: Official docs, books, courses
-- **Data Structures & Algorithms**: Platforms, books, courses
-- **System Design**: Books, courses, practice resources
 - **Career Growth Path**: Progression guidance
 
 ## 🔄 **Usage**
@@ -90,7 +83,6 @@ Each role file includes:
 ## 🎯 **Interview Preparation**
 
 ### **For HR Professionals:**
-- Review the HR questions section for each role and experience level
 - Understand the key skills and focus areas for screening candidates
 - Use the simplified technical descriptions to communicate with hiring managers
 

@@ -12,7 +12,7 @@
 ### **Junior Level (0-3 years)**
 
 #### **Must-Have:**
-- **Swift/Objective-C with Xcode** - Programming Languages and Development Environment
+- **Programming Language**: Swift/Objective-C with Xcode development environment
 - **UIKit/SwiftUI** - UI Frameworks
 - **Git** - Version Control System
 - **iOS SDK** - iOS Development Kit
@@ -29,7 +29,7 @@
 ### **Mid Level (3-6 years)**
 
 #### **Must-Have:**
-- **Swift/Objective-C with Xcode** - Programming Languages and Development Environment
+- **Programming Language**: Swift/Objective-C with Xcode development environment
 - **UIKit/SwiftUI** - UI Frameworks
 - **Git** - Version Control System
 - **Core Data** - Local Database
@@ -49,7 +49,7 @@
 ### **Experienced Level (6+ years)**
 
 #### **Must-Have:**
-- **Swift/Objective-C with Xcode** - Programming Languages and Development Environment
+- **Programming Language**: Swift/Objective-C with Xcode development environment
 - **UIKit/SwiftUI** - UI Frameworks
 - **Git** - Version Control System
 - **Core Data** - Local Database

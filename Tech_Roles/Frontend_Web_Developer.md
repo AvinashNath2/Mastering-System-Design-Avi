@@ -14,7 +14,7 @@
 #### **Must-Have:**
 - **HTML** - Markup Language
 - **CSS** - Styling Language
-- **JavaScript with React/Angular/Vue** - Programming Language and Frameworks
+- **Programming Language**: JavaScript with React/Angular/Vue frameworks
 - **Responsive Design** - Design Approach
 - **Git** - Version Control System
 - **Basic Data Structures**: Arrays, Objects, Sets, Maps
@@ -32,7 +32,7 @@
 #### **Must-Have:**
 - **HTML** - Markup Language
 - **CSS** - Styling Language
-- **JavaScript with React/Angular/Vue** - Programming Language and Frameworks
+- **Programming Language**: JavaScript with React/Angular/Vue frameworks
 - **Responsive Design** - Design Approach
 - **Git** - Version Control System
 - **TypeScript** - Typed JavaScript
@@ -52,7 +52,7 @@
 #### **Must-Have:**
 - **HTML** - Markup Language
 - **CSS** - Styling Language
-- **JavaScript with React/Angular/Vue** - Programming Language and Frameworks
+- **Programming Language**: JavaScript with React/Angular/Vue frameworks
 - **Responsive Design** - Design Approach
 - **Git** - Version Control System
 - **TypeScript** - Typed JavaScript

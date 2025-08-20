@@ -12,8 +12,8 @@
 ### **Mid Level (2-4 years)**
 
 #### **Must-Have:**
-- **Frontend Framework (React/Angular/Vue) with HTML/CSS/JavaScript** - Frontend Technologies
-- **Backend Language (Node.js/Java/Python) with their frameworks** - Backend Technologies
+- **Frontend Framework**: React/Angular/Vue with HTML/CSS/JavaScript
+- **Backend Language**: JavaScript (Node.js framework), Java (Spring Boot framework), Python (Django/FastAPI frameworks)
 - **REST APIs** - API Design Pattern
 - **SQL Databases** - Relational Database
 - **Git** - Version Control System
@@ -31,8 +31,8 @@
 ### **Experienced Level (4+ years)**
 
 #### **Must-Have:**
-- **Frontend Framework (React/Angular/Vue) with HTML/CSS/JavaScript** - Frontend Technologies
-- **Backend Language (Node.js/Java/Python) with their frameworks** - Backend Technologies
+- **Frontend Framework**: React/Angular/Vue with HTML/CSS/JavaScript
+- **Backend Language**: JavaScript (Node.js framework), Java (Spring Boot framework), Python (Django/FastAPI frameworks)
 - **REST APIs** - API Design Pattern
 - **SQL Databases** - Relational Database
 - **Git** - Version Control System

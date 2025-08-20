@@ -12,7 +12,7 @@
 ### **Junior Level (0-3 years)**
 
 #### **Must-Have:**
-- **Node.js with Express.js/NestJS** - JavaScript Runtime and Frameworks
+- **Programming Language**: JavaScript with Node.js runtime and Express.js/NestJS frameworks
 - **REST APIs** - API Design Pattern
 - **MongoDB / SQL** - Database
 - **Git** - Version Control System
@@ -29,7 +29,7 @@
 ### **Mid Level (3-6 years)**
 
 #### **Must-Have:**
-- **Node.js with Express.js/NestJS** - JavaScript Runtime and Frameworks
+- **Programming Language**: JavaScript with Node.js runtime and Express.js/NestJS frameworks
 - **REST APIs** - API Design Pattern
 - **MongoDB / SQL** - Database
 - **Git** - Version Control System
@@ -49,7 +49,7 @@
 ### **Experienced Level (6+ years)**
 
 #### **Must-Have:**
-- **Node.js with Express.js/NestJS** - JavaScript Runtime and Frameworks
+- **Programming Language**: JavaScript with Node.js runtime and Express.js/NestJS frameworks
 - **REST APIs** - API Design Pattern
 - **MongoDB / SQL** - Database
 - **Git** - Version Control System

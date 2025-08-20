@@ -12,7 +12,7 @@
 ### **Junior Level (0-3 years)**
 
 #### **Must-Have:**
-- **Python/R with Pandas, NumPy** - Programming Languages and Data Libraries
+- **Programming Language**: Python/R with Pandas, NumPy libraries
 - **Data Visualization (Matplotlib, Seaborn)** - Visualization Libraries
 - **Statistics & ML Basics** - Statistical Knowledge
 - **Jupyter Notebooks** - Development Environment
@@ -29,7 +29,7 @@
 ### **Mid Level (3-6 years)**
 
 #### **Must-Have:**
-- **Python/R with Pandas, NumPy** - Programming Languages and Data Libraries
+- **Programming Language**: Python/R with Pandas, NumPy libraries
 - **Data Visualization (Matplotlib, Seaborn)** - Visualization Libraries
 - **Statistics & ML Basics** - Statistical Knowledge
 - **Deep Learning** - Advanced ML Techniques
@@ -48,7 +48,7 @@
 ### **Experienced Level (6+ years)**
 
 #### **Must-Have:**
-- **Python/R with Pandas, NumPy** - Programming Languages and Data Libraries
+- **Programming Language**: Python/R with Pandas, NumPy libraries
 - **Data Visualization (Matplotlib, Seaborn)** - Visualization Libraries
 - **Statistics & ML Basics** - Statistical Knowledge
 - **Deep Learning** - Advanced ML Techniques

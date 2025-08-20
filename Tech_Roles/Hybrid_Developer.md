@@ -12,7 +12,7 @@
 ### **Junior Level (0-3 years)**
 
 #### **Must-Have:**
-- **Flutter/React Native with Dart/JavaScript** - Cross-platform Frameworks and Languages
+- **Programming Language**: Dart/JavaScript with Flutter/React Native frameworks
 - **Mobile APIs** - Platform Integration
 - **Git** - Version Control System
 - **IDE (VS Code, Android Studio)** - Development Environment
@@ -29,7 +29,7 @@
 ### **Mid Level (3-6 years)**
 
 #### **Must-Have:**
-- **Flutter/React Native with Dart/JavaScript** - Cross-platform Frameworks and Languages
+- **Programming Language**: Dart/JavaScript with Flutter/React Native frameworks
 - **Mobile APIs** - Platform Integration
 - **Git** - Version Control System
 - **Platform Channels** - Native Integration
@@ -49,7 +49,7 @@
 ### **Experienced Level (6+ years)**
 
 #### **Must-Have:**
-- **Flutter/React Native with Dart/JavaScript** - Cross-platform Frameworks and Languages
+- **Programming Language**: Dart/JavaScript with Flutter/React Native frameworks
 - **Mobile APIs** - Platform Integration
 - **Git** - Version Control System
 - **Platform Channels** - Native Integration

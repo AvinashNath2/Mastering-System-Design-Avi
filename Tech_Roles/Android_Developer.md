@@ -12,7 +12,7 @@
 ### **Junior Level (0-3 years)**
 
 #### **Must-Have:**
-- **Kotlin/Java with Android SDK** - Programming Languages and Development Kit
+- **Programming Language**: Kotlin/Java with Android SDK framework
 - **MVVM Architecture** - Design Pattern
 - **Git** - Version Control System
 - **Android Studio** - Development Environment
@@ -29,7 +29,7 @@
 ### **Mid Level (3-6 years)**
 
 #### **Must-Have:**
-- **Kotlin/Java with Android SDK** - Programming Languages and Development Kit
+- **Programming Language**: Kotlin/Java with Android SDK framework
 - **MVVM Architecture** - Design Pattern
 - **Git** - Version Control System
 - **Jetpack Compose** - Modern UI Framework
@@ -49,7 +49,7 @@
 ### **Experienced Level (6+ years)**
 
 #### **Must-Have:**
-- **Kotlin/Java with Android SDK** - Programming Languages and Development Kit
+- **Programming Language**: Kotlin/Java with Android SDK framework
 - **MVVM Architecture** - Design Pattern
 - **Git** - Version Control System
 - **Jetpack Compose** - Modern UI Framework

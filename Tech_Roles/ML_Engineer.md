@@ -12,7 +12,7 @@
 ### **Mid Level (2-4 years)**
 
 #### **Must-Have:**
-- **Python with NumPy, Pandas, Scikit-learn** - Programming Language and ML Libraries
+- **Programming Language**: Python with NumPy, Pandas, Scikit-learn libraries
 - **ML Algorithms** - Machine Learning Fundamentals
 - **Jupyter Notebooks** - Development Environment
 - **Git** - Version Control System
@@ -29,7 +29,7 @@
 ### **Experienced Level (4+ years)**
 
 #### **Must-Have:**
-- **Python with NumPy, Pandas, Scikit-learn** - Programming Language and ML Libraries
+- **Programming Language**: Python with NumPy, Pandas, Scikit-learn libraries
 - **ML Algorithms** - Machine Learning Fundamentals
 - **Jupyter Notebooks** - Development Environment
 - **Git** - Version Control System

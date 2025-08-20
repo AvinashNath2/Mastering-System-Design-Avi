@@ -12,7 +12,7 @@
 ### **Junior Level (0-3 years)**
 
 #### **Must-Have:**
-- **Python (3.x) with Django/Flask/FastAPI** - Programming Language and Frameworks
+- **Programming Language**: Python (3.x) with Django/Flask/FastAPI frameworks
 - **REST APIs** - API Design Pattern
 - **SQL** - Relational Database
 - **Git** - Version Control System
@@ -29,7 +29,7 @@
 ### **Mid Level (3-6 years)**
 
 #### **Must-Have:**
-- **Python (3.8+) with Django/Flask/FastAPI** - Programming Language and Frameworks
+- **Programming Language**: Python (3.8+) with Django/Flask/FastAPI frameworks
 - **REST APIs** - API Design Pattern
 - **SQL** - Relational Database
 - **Git** - Version Control System
@@ -49,7 +49,7 @@
 ### **Experienced Level (6+ years)**
 
 #### **Must-Have:**
-- **Python (3.9+) with Django/Flask/FastAPI** - Programming Language and Frameworks
+- **Programming Language**: Python (3.9+) with Django/Flask/FastAPI frameworks
 - **REST APIs** - API Design Pattern
 - **SQL** - Relational Database
 - **Git** - Version Control System

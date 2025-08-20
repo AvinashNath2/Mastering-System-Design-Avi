@@ -12,7 +12,7 @@
 ### **Junior Level (0-3 years)**
 
 #### **Must-Have:**
-- **Java (8+) with Spring Boot** - Programming Language and Framework
+- **Programming Language**: Java (8+) with Spring Boot framework
 - **REST APIs** - API Design Pattern
 - **SQL (PostgreSQL, MySQL)** - Relational Database
 - **Git** - Version Control System
@@ -29,7 +29,7 @@
 ### **Mid Level (3-6 years)**
 
 #### **Must-Have:**
-- **Java (11+) with Spring Boot** - Programming Language and Framework
+- **Programming Language**: Java (11+) with Spring Boot framework
 - **Spring Security** - Security Framework
 - **REST APIs** - API Design Pattern
 - **SQL (PostgreSQL, MySQL)** - Relational Database
@@ -50,7 +50,7 @@
 ### **Experienced Level (6+ years)**
 
 #### **Must-Have:**
-- **Java (17+) with Spring Boot** - Programming Language and Framework
+- **Programming Language**: Java (17+) with Spring Boot framework
 - **Spring Cloud** - Microservices Framework
 - **REST APIs** - API Design Pattern
 - **SQL (PostgreSQL, MySQL)** - Relational Database

@@ -12,7 +12,7 @@
 ### **Junior Level (0-3 years)**
 
 #### **Must-Have:**
-- **Python/SQL with ETL/ELT Processes** - Programming Languages and Data Processing
+- **Programming Language**: Python/SQL with ETL/ELT processing tools
 - **Data Warehousing** - Data Storage
 - **Git** - Version Control System
 - **Basic Cloud Platforms** - Cloud Services
@@ -29,7 +29,7 @@
 ### **Mid Level (3-6 years)**
 
 #### **Must-Have:**
-- **Python/SQL with ETL/ELT Processes** - Programming Languages and Data Processing
+- **Programming Language**: Python/SQL with ETL/ELT processing tools
 - **Data Warehousing** - Data Storage
 - **Git** - Version Control System
 - **Apache Airflow** - Workflow Management
@@ -49,7 +49,7 @@
 ### **Experienced Level (6+ years)**
 
 #### **Must-Have:**
-- **Python/SQL with ETL/ELT Processes** - Programming Languages and Data Processing
+- **Programming Language**: Python/SQL with ETL/ELT processing tools
 - **Data Warehousing** - Data Storage
 - **Git** - Version Control System
 - **Apache Airflow** - Workflow Management

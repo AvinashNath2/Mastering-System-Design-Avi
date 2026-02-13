@@ -1,0 +1,6 @@
+server:
+  port: 8085
+
+screen:
+  save:
+    dir: /Users/avinashnath/test/
